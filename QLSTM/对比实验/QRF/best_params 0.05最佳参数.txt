@@ -1,0 +1,1 @@
+ {'max_depth': np.float64(4.754842111819914), 'min_samples_leaf': np.float64(7.270509366462672), 'min_samples_split': np.float64(18.35471905567572), 'n_estimators': np.float64(94.04212225605193)}
