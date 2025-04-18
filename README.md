@@ -1,11 +1,11 @@
 # QLSTM
-# 对比实验 — QWLSTM vs LSTM vs QRF
+# 对比实验 — QLSTM vs LSTM vs QRF
 
-本项目旨在对比三种模型（QWLSTM、LSTM、QRF）在不同市场指数上的预测效果。
+本项目旨在对比三种模型（QLSTM、LSTM、QRF）在不同市场指数上的预测效果。
 
 ## 实验脚本
 
-- `qlstm_train.py`：使用加权 LSTM（QWLSTM）模型进行训练与预测。
+- `qlstm_train.py`：使用加权 LSTM（QLSTM）模型进行训练与预测。
 - `lstm_train.py`：使用标准 LSTM 模型进行训练与预测。
 - `qrf_train.py`：使用分位数随机森林（QRF）模型进行训练与预测。
 
