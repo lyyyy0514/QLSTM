@@ -37,10 +37,6 @@ bayes-opt>=1.2.0
 ## 使用方法
 
 1. 克隆或下载本项目：
-   ```bash
-git clone https://github.com/<用户名>/<仓库名>.git
-cd <仓库名>
-```
 2. 安装依赖：
    ```bash
 pip install -r requirements.txt
