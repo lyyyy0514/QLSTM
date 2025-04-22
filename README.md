@@ -13,14 +13,12 @@
 
 ## 数据处理模块
 
-- `data_sp500.py`：原始 `S&P 500` 指数数据的下载与初步清洗。
-- `data_shangzheng.py`：原始 `上证指数` 数据的下载与初步清洗。
-- `dataloader_sp500.py`：将 `S&P 500` 清洗后数据转换为模型输入的 `DataLoader`。
-- `dataloader_shangzheng.py`：将 `上证指数` 清洗后数据转换为模型输入的 `DataLoader`。
+- `data.py`：原始 `S&P 500` 指数数据的下载与初步清洗。
+- `data1.py`：原始 `上证指数` 数据的下载与初步清洗。
+- `dataloader.py`：将 `S&P 500` 清洗后数据转换为模型输入的 `DataLoader`。
+- `dataloader1.py`：将 `上证指数` 清洗后数据转换为模型输入的 `DataLoader`。
 
 > 注意：数据文件名请与脚本内部调用保持一致。若使用其他文件名或路径，请自行修改脚本中的导入部分。
-
-## 环境依赖
 
 建议环境：
 
