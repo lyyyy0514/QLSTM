@@ -1,7 +1,7 @@
 # QLSTM
 # 对比实验 — QLSTM vs LSTM vs QRF
 
-本项目旨在对比三种模型（QLSTM、LSTM、QRF）在不同市场指数上的预测效果。
+本项目旨在对比三种模型（QLSTM、LSTM、QRF）在不同市场指数上的预测在险价值VaR效果。
 
 ## 实验脚本
 
