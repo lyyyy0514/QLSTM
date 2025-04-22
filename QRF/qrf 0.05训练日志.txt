@@ -1,0 +1,1035 @@
+Loss: -0.007803468208092482 (n_estimators: 129, min_samples_split: 3, min_samples_leaf: 2, max_depth: 11)
+| 160       | -0.007803 | 11.92     | 2.203     | 3.33      | 129.7     |
+106.08064923308571
+kupiec 检验：不拒绝原假设, 违约次数: 15
+Loss: -0.036705202312138724 (n_estimators: 54, min_samples_split: 14, min_samples_leaf: 7, max_depth: 10)
+| 161       | -0.03671  | 10.39     | 7.939     | 14.02     | 54.4      |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 104, min_samples_split: 7, min_samples_leaf: 11, max_depth: 10)
+| 162       | -0.01936  | 10.86     | 11.17     | 7.376     | 104.3     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 106, min_samples_split: 15, min_samples_leaf: 9, max_depth: 9)
+| 163       | -0.01358  | 9.579     | 9.414     | 15.72     | 106.1     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 189, min_samples_split: 11, min_samples_leaf: 3, max_depth: 10)
+| 164       | -0.01936  | 10.01     | 3.472     | 11.03     | 189.3     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 54, min_samples_split: 19, min_samples_leaf: 6, max_depth: 12)
+| 165       | -0.03092  | 12.08     | 6.023     | 19.69     | 54.38     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 62, min_samples_split: 13, min_samples_leaf: 3, max_depth: 12)
+| 166       | -0.007803 | 12.49     | 3.535     | 13.13     | 62.23     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 166, min_samples_split: 7, min_samples_leaf: 3, max_depth: 9)
+| 167       | -0.03092  | 9.489     | 3.777     | 7.301     | 166.5     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 132, min_samples_split: 7, min_samples_leaf: 6, max_depth: 8)
+| 168       | -0.007803 | 8.669     | 6.237     | 7.574     | 132.4     |
+111.96952719141859
+kupiec 检验：不拒绝原假设, 违约次数: 16
+Loss: -0.04248554913294797 (n_estimators: 87, min_samples_split: 17, min_samples_leaf: 13, max_depth: 3)
+| 169       | -0.04249  | 3.06      | 13.05     | 17.38     | 87.35     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 195, min_samples_split: 3, min_samples_leaf: 9, max_depth: 4)
+| 170       | -0.002023 | 4.664     | 9.906     | 3.092     | 195.5     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 54, min_samples_split: 4, min_samples_leaf: 5, max_depth: 3)
+| 171       | -0.01936  | 3.176     | 5.399     | 4.998     | 54.5      |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 148, min_samples_split: 6, min_samples_leaf: 3, max_depth: 19)
+| 172       | -0.02514  | 19.67     | 3.822     | 6.233     | 148.7     |
+41.302991691424026
+kupiec 检验：不拒绝原假设, 违约次数: 4
+Loss: -0.02687861271676301 (n_estimators: 104, min_samples_split: 13, min_samples_leaf: 3, max_depth: 6)
+| 173       | -0.02688  | 6.566     | 3.144     | 13.72     | 104.5     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 129, min_samples_split: 14, min_samples_leaf: 9, max_depth: 17)
+| 174       | -0.01936  | 17.73     | 9.219     | 14.42     | 129.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 118, min_samples_split: 11, min_samples_leaf: 10, max_depth: 13)
+| 175       | -0.01936  | 13.33     | 10.62     | 11.2      | 118.6     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 189, min_samples_split: 3, min_samples_leaf: 6, max_depth: 14)
+| 176       | -0.01358  | 14.36     | 6.621     | 3.303     | 189.2     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 177, min_samples_split: 5, min_samples_leaf: 6, max_depth: 16)
+| 177       | -0.02514  | 17.0      | 6.64      | 5.756     | 177.1     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 126, min_samples_split: 9, min_samples_leaf: 2, max_depth: 19)
+| 178       | -0.007803 | 19.92     | 2.702     | 9.097     | 126.5     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 191, min_samples_split: 7, min_samples_leaf: 11, max_depth: 10)
+| 179       | -0.01358  | 10.78     | 12.0      | 7.771     | 191.2     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 159, min_samples_split: 11, min_samples_leaf: 6, max_depth: 15)
+| 180       | -0.02514  | 15.76     | 6.79      | 11.52     | 159.5     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 58, min_samples_split: 9, min_samples_leaf: 5, max_depth: 7)
+| 181       | -0.03092  | 7.738     | 5.695     | 9.585     | 58.63     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 152, min_samples_split: 6, min_samples_leaf: 9, max_depth: 6)
+| 182       | -0.002023 | 6.801     | 9.755     | 6.948     | 152.1     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 194, min_samples_split: 3, min_samples_leaf: 8, max_depth: 16)
+| 183       | -0.01358  | 16.03     | 8.245     | 3.174     | 194.5     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 170, min_samples_split: 15, min_samples_leaf: 10, max_depth: 11)
+| 184       | -0.01358  | 11.95     | 10.83     | 15.71     | 170.1     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 161, min_samples_split: 18, min_samples_leaf: 6, max_depth: 15)
+| 185       | -0.02514  | 15.51     | 6.566     | 18.1      | 161.5     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 190, min_samples_split: 15, min_samples_leaf: 4, max_depth: 10)
+| 186       | -0.02514  | 10.17     | 4.235     | 15.23     | 190.1     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 196, min_samples_split: 6, min_samples_leaf: 11, max_depth: 17)
+| 187       | -0.007803 | 17.25     | 11.49     | 6.802     | 196.3     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 78, min_samples_split: 12, min_samples_leaf: 10, max_depth: 16)
+| 188       | -0.02514  | 16.38     | 10.67     | 12.01     | 78.77     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 158, min_samples_split: 7, min_samples_leaf: 13, max_depth: 3)
+| 189       | -0.01358  | 3.091     | 13.19     | 7.324     | 158.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 119, min_samples_split: 15, min_samples_leaf: 3, max_depth: 10)
+| 190       | -0.01936  | 10.56     | 3.081     | 15.08     | 119.6     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 199, min_samples_split: 10, min_samples_leaf: 12, max_depth: 19)
+| 191       | -0.01358  | 19.34     | 12.02     | 10.98     | 199.8     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 179, min_samples_split: 8, min_samples_leaf: 10, max_depth: 14)
+| 192       | -0.007803 | 14.02     | 10.6      | 8.221     | 179.3     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 160, min_samples_split: 11, min_samples_leaf: 6, max_depth: 6)
+| 193       | -0.01358  | 6.403     | 6.43      | 11.04     | 160.0     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 166, min_samples_split: 11, min_samples_leaf: 1, max_depth: 19)
+| 194       | -0.01936  | 19.88     | 1.268     | 11.0      | 166.8     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 83, min_samples_split: 2, min_samples_leaf: 6, max_depth: 8)
+| 195       | -0.002023 | 8.979     | 6.765     | 2.735     | 83.3      |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 145, min_samples_split: 14, min_samples_leaf: 10, max_depth: 17)
+| 196       | -0.007803 | 17.35     | 10.04     | 14.36     | 145.5     |
+106.08064923308571
+kupiec 检验：不拒绝原假设, 违约次数: 15
+Loss: -0.036705202312138724 (n_estimators: 80, min_samples_split: 2, min_samples_leaf: 2, max_depth: 7)
+| 197       | -0.03671  | 7.532     | 2.497     | 2.929     | 80.04     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 152, min_samples_split: 3, min_samples_leaf: 1, max_depth: 6)
+| 198       | -0.01358  | 6.452     | 1.005     | 3.175     | 152.7     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 82, min_samples_split: 8, min_samples_leaf: 5, max_depth: 17)
+| 199       | -0.007803 | 17.01     | 5.966     | 8.978     | 82.65     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 153, min_samples_split: 13, min_samples_leaf: 11, max_depth: 7)
+| 200       | -0.02514  | 7.519     | 11.14     | 13.35     | 153.3     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 138, min_samples_split: 9, min_samples_leaf: 8, max_depth: 16)
+| 201       | -0.02514  | 16.12     | 8.405     | 9.578     | 138.9     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 61, min_samples_split: 2, min_samples_leaf: 13, max_depth: 12)
+| 202       | -0.03092  | 12.58     | 13.14     | 2.628     | 61.85     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 155, min_samples_split: 4, min_samples_leaf: 2, max_depth: 17)
+| 203       | -0.01936  | 17.84     | 2.273     | 4.224     | 155.1     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 185, min_samples_split: 4, min_samples_leaf: 7, max_depth: 12)
+| 204       | -0.01936  | 12.97     | 7.53      | 4.393     | 185.4     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 164, min_samples_split: 5, min_samples_leaf: 10, max_depth: 9)
+| 205       | -0.02514  | 9.571     | 10.26     | 5.742     | 164.7     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 72, min_samples_split: 2, min_samples_leaf: 6, max_depth: 19)
+| 206       | -0.01936  | 19.66     | 6.893     | 2.371     | 72.21     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 177, min_samples_split: 13, min_samples_leaf: 10, max_depth: 11)
+| 207       | -0.02514  | 11.69     | 10.61     | 13.85     | 177.4     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 181, min_samples_split: 4, min_samples_leaf: 1, max_depth: 13)
+| 208       | -0.007803 | 13.99     | 1.774     | 4.193     | 181.0     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 188, min_samples_split: 19, min_samples_leaf: 2, max_depth: 8)
+| 209       | -0.01936  | 8.427     | 2.227     | 19.13     | 188.2     |
+41.302991691424026
+kupiec 检验：不拒绝原假设, 违约次数: 4
+Loss: -0.02687861271676301 (n_estimators: 90, min_samples_split: 4, min_samples_leaf: 9, max_depth: 4)
+| 210       | -0.02688  | 4.293     | 9.353     | 4.26      | 90.68     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 89, min_samples_split: 17, min_samples_leaf: 9, max_depth: 6)
+| 211       | -0.01358  | 6.746     | 9.004     | 17.26     | 89.43     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 59, min_samples_split: 13, min_samples_leaf: 2, max_depth: 7)
+| 212       | -0.03092  | 7.791     | 2.331     | 13.21     | 59.06     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 57, min_samples_split: 4, min_samples_leaf: 4, max_depth: 7)
+| 213       | -0.01936  | 7.414     | 4.228     | 4.303     | 57.3      |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 124, min_samples_split: 13, min_samples_leaf: 6, max_depth: 12)
+| 214       | -0.01936  | 12.78     | 6.448     | 13.05     | 124.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 72, min_samples_split: 12, min_samples_leaf: 2, max_depth: 16)
+| 215       | -0.01936  | 16.16     | 2.366     | 12.47     | 72.96     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 108, min_samples_split: 19, min_samples_leaf: 12, max_depth: 17)
+| 216       | -0.01358  | 17.32     | 12.36     | 19.68     | 108.4     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 106, min_samples_split: 19, min_samples_leaf: 4, max_depth: 18)
+| 217       | -0.01936  | 18.56     | 4.204     | 19.29     | 106.8     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 61, min_samples_split: 2, min_samples_leaf: 10, max_depth: 8)
+| 218       | -0.02514  | 8.446     | 10.31     | 2.119     | 61.72     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 132, min_samples_split: 16, min_samples_leaf: 11, max_depth: 11)
+| 219       | -0.02514  | 11.09     | 11.3      | 16.0      | 132.4     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 128, min_samples_split: 19, min_samples_leaf: 2, max_depth: 9)
+| 220       | -0.002023 | 9.811     | 2.542     | 19.8      | 128.5     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 129, min_samples_split: 17, min_samples_leaf: 2, max_depth: 15)
+| 221       | -0.01936  | 15.76     | 2.395     | 17.56     | 129.9     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 158, min_samples_split: 11, min_samples_leaf: 7, max_depth: 6)
+| 222       | -0.01936  | 6.179     | 7.737     | 11.48     | 158.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 193, min_samples_split: 19, min_samples_leaf: 2, max_depth: 10)
+| 223       | -0.01936  | 10.29     | 2.55      | 19.66     | 193.9     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 60, min_samples_split: 11, min_samples_leaf: 10, max_depth: 3)
+| 224       | -0.02514  | 3.834     | 10.76     | 11.01     | 60.96     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 91, min_samples_split: 2, min_samples_leaf: 14, max_depth: 9)
+| 225       | -0.002023 | 9.785     | 14.84     | 2.546     | 91.19     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 151, min_samples_split: 14, min_samples_leaf: 1, max_depth: 16)
+| 226       | -0.01936  | 16.44     | 1.141     | 14.88     | 151.9     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 160, min_samples_split: 7, min_samples_leaf: 8, max_depth: 8)
+| 227       | -0.007803 | 8.753     | 8.282     | 7.062     | 160.3     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 156, min_samples_split: 16, min_samples_leaf: 5, max_depth: 7)
+| 228       | -0.01358  | 7.027     | 5.253     | 16.87     | 156.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 55, min_samples_split: 19, min_samples_leaf: 2, max_depth: 9)
+| 229       | -0.01936  | 9.148     | 2.647     | 19.84     | 55.38     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 179, min_samples_split: 5, min_samples_leaf: 3, max_depth: 12)
+| 230       | -0.002023 | 12.92     | 3.331     | 5.771     | 179.1     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 139, min_samples_split: 19, min_samples_leaf: 13, max_depth: 7)
+| 231       | -0.02514  | 7.779     | 13.18     | 19.94     | 139.8     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 67, min_samples_split: 6, min_samples_leaf: 13, max_depth: 13)
+| 232       | -0.02514  | 13.16     | 13.65     | 6.11      | 67.36     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 117, min_samples_split: 5, min_samples_leaf: 6, max_depth: 6)
+| 233       | -0.01358  | 6.178     | 6.683     | 5.982     | 117.7     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 84, min_samples_split: 16, min_samples_leaf: 7, max_depth: 9)
+| 234       | -0.01936  | 9.553     | 7.351     | 16.09     | 84.26     |
+147.30279494141587
+kupiec 检验：不拒绝原假设, 违约次数: 22
+Loss: -0.07716763005780346 (n_estimators: 57, min_samples_split: 11, min_samples_leaf: 2, max_depth: 5)
+| 235       | -0.07717  | 5.057     | 2.571     | 11.57     | 57.11     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 136, min_samples_split: 14, min_samples_leaf: 7, max_depth: 3)
+| 236       | -0.002023 | 3.953     | 7.946     | 14.25     | 136.9     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 181, min_samples_split: 3, min_samples_leaf: 7, max_depth: 11)
+| 237       | -0.03092  | 11.27     | 7.693     | 3.541     | 181.3     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 116, min_samples_split: 12, min_samples_leaf: 13, max_depth: 14)
+| 238       | -0.01358  | 14.1      | 13.59     | 12.4      | 116.8     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 51, min_samples_split: 15, min_samples_leaf: 12, max_depth: 4)
+| 239       | -0.01936  | 4.798     | 12.32     | 15.1      | 51.17     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 84, min_samples_split: 19, min_samples_leaf: 2, max_depth: 6)
+| 240       | -0.007803 | 6.842     | 2.288     | 19.16     | 84.25     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 114, min_samples_split: 15, min_samples_leaf: 8, max_depth: 8)
+| 241       | -0.003757 | 8.045     | 8.311     | 15.57     | 114.1     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 79, min_samples_split: 7, min_samples_leaf: 11, max_depth: 18)
+| 242       | -0.01358  | 18.45     | 11.93     | 7.607     | 79.65     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 181, min_samples_split: 17, min_samples_leaf: 4, max_depth: 18)
+| 243       | -0.02514  | 18.85     | 4.974     | 17.38     | 181.4     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 197, min_samples_split: 16, min_samples_leaf: 9, max_depth: 13)
+| 244       | -0.01358  | 13.29     | 9.394     | 16.08     | 198.0     |
+58.969625566422664
+kupiec 检验：不拒绝原假设, 违约次数: 7
+Loss: -0.009537572254335262 (n_estimators: 128, min_samples_split: 15, min_samples_leaf: 1, max_depth: 4)
+| 245       | -0.009538 | 4.08      | 1.197     | 15.52     | 128.7     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 182, min_samples_split: 8, min_samples_leaf: 4, max_depth: 15)
+| 246       | -0.01936  | 15.23     | 4.805     | 8.961     | 182.2     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 105, min_samples_split: 5, min_samples_leaf: 3, max_depth: 4)
+| 247       | -0.01358  | 4.311     | 3.219     | 5.348     | 105.3     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 194, min_samples_split: 2, min_samples_leaf: 1, max_depth: 17)
+| 248       | -0.02514  | 17.32     | 1.445     | 2.33      | 194.9     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 191, min_samples_split: 16, min_samples_leaf: 5, max_depth: 16)
+| 249       | -0.02514  | 16.74     | 5.242     | 16.54     | 192.0     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 67, min_samples_split: 6, min_samples_leaf: 1, max_depth: 6)
+| 250       | -0.01358  | 6.969     | 1.749     | 6.919     | 67.32     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 66, min_samples_split: 12, min_samples_leaf: 9, max_depth: 16)
+| 251       | -0.01358  | 16.01     | 9.074     | 12.46     | 66.25     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 69, min_samples_split: 6, min_samples_leaf: 10, max_depth: 8)
+| 252       | -0.007803 | 8.808     | 10.26     | 6.02      | 69.81     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 114, min_samples_split: 15, min_samples_leaf: 4, max_depth: 14)
+| 253       | -0.01358  | 14.46     | 4.284     | 15.27     | 114.2     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 192, min_samples_split: 11, min_samples_leaf: 7, max_depth: 7)
+| 254       | -0.01358  | 7.848     | 7.334     | 11.49     | 192.4     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 156, min_samples_split: 19, min_samples_leaf: 2, max_depth: 18)
+| 255       | -0.01936  | 18.72     | 2.941     | 19.87     | 156.2     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 117, min_samples_split: 11, min_samples_leaf: 13, max_depth: 8)
+| 256       | -0.02514  | 8.02      | 13.05     | 11.35     | 117.7     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 124, min_samples_split: 3, min_samples_leaf: 3, max_depth: 14)
+| 257       | -0.01936  | 14.07     | 3.271     | 3.074     | 124.5     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 169, min_samples_split: 13, min_samples_leaf: 6, max_depth: 3)
+| 258       | -0.003757 | 3.553     | 6.144     | 13.77     | 169.7     |
+111.96952719141859
+kupiec 检验：不拒绝原假设, 违约次数: 16
+Loss: -0.04248554913294797 (n_estimators: 184, min_samples_split: 16, min_samples_leaf: 9, max_depth: 3)
+| 259       | -0.04249  | 3.115     | 9.066     | 16.78     | 184.1     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 154, min_samples_split: 16, min_samples_leaf: 12, max_depth: 7)
+| 260       | -0.003757 | 7.59      | 12.03     | 16.53     | 154.7     |
+135.52503902475013
+kupiec 检验：不拒绝原假设, 违约次数: 20
+Loss: -0.06560693641618497 (n_estimators: 88, min_samples_split: 17, min_samples_leaf: 6, max_depth: 3)
+| 261       | -0.06561  | 3.806     | 6.016     | 17.56     | 88.96     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 74, min_samples_split: 17, min_samples_leaf: 12, max_depth: 10)
+| 262       | -0.003757 | 10.66     | 12.74     | 17.44     | 74.32     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 64, min_samples_split: 8, min_samples_leaf: 5, max_depth: 19)
+| 263       | -0.01936  | 19.09     | 5.538     | 8.985     | 64.01     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 55, min_samples_split: 8, min_samples_leaf: 8, max_depth: 11)
+| 264       | -0.03092  | 11.38     | 8.92      | 8.003     | 55.14     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 74, min_samples_split: 17, min_samples_leaf: 11, max_depth: 15)
+| 265       | -0.01936  | 15.89     | 11.83     | 17.84     | 74.93     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 64, min_samples_split: 11, min_samples_leaf: 7, max_depth: 12)
+| 266       | -0.02514  | 12.31     | 7.64      | 11.8      | 64.07     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 69, min_samples_split: 9, min_samples_leaf: 8, max_depth: 6)
+| 267       | -0.002023 | 6.267     | 8.079     | 9.391     | 69.87     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 101, min_samples_split: 5, min_samples_leaf: 14, max_depth: 11)
+| 268       | -0.02514  | 11.4      | 14.66     | 5.081     | 101.9     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 162, min_samples_split: 5, min_samples_leaf: 10, max_depth: 5)
+| 269       | -0.02514  | 5.998     | 10.62     | 5.886     | 162.9     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 96, min_samples_split: 7, min_samples_leaf: 13, max_depth: 16)
+| 270       | -0.01358  | 16.61     | 13.31     | 7.655     | 96.5      |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 158, min_samples_split: 11, min_samples_leaf: 12, max_depth: 7)
+| 271       | -0.02514  | 7.558     | 12.4      | 11.55     | 158.2     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 66, min_samples_split: 11, min_samples_leaf: 12, max_depth: 8)
+| 272       | -0.02514  | 8.805     | 12.44     | 11.67     | 66.46     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 149, min_samples_split: 16, min_samples_leaf: 2, max_depth: 13)
+| 273       | -0.007803 | 13.95     | 2.087     | 16.95     | 149.8     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 154, min_samples_split: 15, min_samples_leaf: 3, max_depth: 7)
+| 274       | -0.007803 | 7.321     | 3.602     | 15.4      | 154.4     |
+117.85840514975148
+kupiec 检验：不拒绝原假设, 违约次数: 17
+Loss: -0.04826589595375723 (n_estimators: 118, min_samples_split: 3, min_samples_leaf: 11, max_depth: 4)
+| 275       | -0.04827  | 4.474     | 11.78     | 3.689     | 118.5     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 50, min_samples_split: 10, min_samples_leaf: 8, max_depth: 8)
+| 276       | -0.007803 | 8.637     | 8.583     | 10.55     | 50.38     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 106, min_samples_split: 4, min_samples_leaf: 2, max_depth: 15)
+| 277       | -0.03092  | 15.55     | 2.188     | 4.596     | 106.7     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 147, min_samples_split: 6, min_samples_leaf: 1, max_depth: 10)
+| 278       | -0.01358  | 10.19     | 1.396     | 6.328     | 147.9     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 169, min_samples_split: 7, min_samples_leaf: 5, max_depth: 15)
+| 279       | -0.01936  | 15.34     | 5.852     | 7.415     | 169.5     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 161, min_samples_split: 8, min_samples_leaf: 4, max_depth: 13)
+| 280       | -0.02514  | 13.88     | 4.945     | 8.656     | 161.9     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 190, min_samples_split: 19, min_samples_leaf: 7, max_depth: 6)
+| 281       | -0.01358  | 6.49      | 7.417     | 19.79     | 190.6     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 105, min_samples_split: 18, min_samples_leaf: 14, max_depth: 5)
+| 282       | -0.02514  | 5.497     | 14.75     | 18.05     | 105.3     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 78, min_samples_split: 17, min_samples_leaf: 12, max_depth: 10)
+| 283       | -0.002023 | 10.0      | 12.23     | 17.61     | 78.68     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 131, min_samples_split: 15, min_samples_leaf: 12, max_depth: 12)
+| 284       | -0.01358  | 12.48     | 12.3      | 15.87     | 131.6     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 55, min_samples_split: 13, min_samples_leaf: 11, max_depth: 9)
+| 285       | -0.01936  | 9.101     | 11.16     | 13.81     | 55.54     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 135, min_samples_split: 11, min_samples_leaf: 8, max_depth: 8)
+| 286       | -0.01936  | 8.338     | 8.738     | 11.59     | 135.9     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 80, min_samples_split: 4, min_samples_leaf: 11, max_depth: 11)
+| 287       | -0.007803 | 11.14     | 11.7      | 4.38      | 80.25     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 50, min_samples_split: 15, min_samples_leaf: 4, max_depth: 4)
+| 288       | -0.007803 | 4.308     | 4.448     | 15.32     | 50.35     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 163, min_samples_split: 7, min_samples_leaf: 7, max_depth: 8)
+| 289       | -0.002023 | 8.139     | 7.47      | 7.289     | 163.3     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 53, min_samples_split: 8, min_samples_leaf: 7, max_depth: 14)
+| 290       | -0.02514  | 14.53     | 7.559     | 8.924     | 53.85     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 60, min_samples_split: 18, min_samples_leaf: 9, max_depth: 18)
+| 291       | -0.03092  | 18.9      | 9.338     | 18.3      | 60.06     |
+111.96952719141859
+kupiec 检验：不拒绝原假设, 违约次数: 16
+Loss: -0.04248554913294797 (n_estimators: 86, min_samples_split: 13, min_samples_leaf: 2, max_depth: 7)
+| 292       | -0.04249  | 7.739     | 2.678     | 13.64     | 86.62     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 159, min_samples_split: 6, min_samples_leaf: 11, max_depth: 19)
+| 293       | -0.01358  | 19.3      | 11.41     | 6.902     | 159.8     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 137, min_samples_split: 5, min_samples_leaf: 8, max_depth: 16)
+| 294       | -0.01358  | 16.23     | 8.548     | 5.494     | 137.7     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 68, min_samples_split: 19, min_samples_leaf: 14, max_depth: 3)
+| 295       | -0.01936  | 3.545     | 14.74     | 19.27     | 68.98     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 140, min_samples_split: 4, min_samples_leaf: 7, max_depth: 11)
+| 296       | -0.01936  | 11.59     | 7.531     | 4.793     | 140.0     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 174, min_samples_split: 14, min_samples_leaf: 8, max_depth: 4)
+| 297       | -0.003757 | 4.601     | 8.741     | 14.97     | 174.9     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 175, min_samples_split: 17, min_samples_leaf: 2, max_depth: 18)
+| 298       | -0.02514  | 18.04     | 2.879     | 17.78     | 175.3     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 54, min_samples_split: 6, min_samples_leaf: 1, max_depth: 15)
+| 299       | -0.007803 | 15.92     | 1.395     | 6.052     | 54.42     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 136, min_samples_split: 10, min_samples_leaf: 9, max_depth: 5)
+| 300       | -0.002023 | 5.729     | 9.65      | 10.61     | 136.1     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 119, min_samples_split: 6, min_samples_leaf: 11, max_depth: 5)
+| 301       | -0.03092  | 5.775     | 11.91     | 6.398     | 119.9     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 148, min_samples_split: 10, min_samples_leaf: 14, max_depth: 8)
+| 302       | -0.007803 | 8.376     | 14.12     | 10.58     | 148.8     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 84, min_samples_split: 8, min_samples_leaf: 4, max_depth: 7)
+| 303       | -0.003757 | 7.272     | 4.076     | 8.439     | 84.68     |
+58.969625566422664
+kupiec 检验：不拒绝原假设, 违约次数: 7
+Loss: -0.009537572254335262 (n_estimators: 68, min_samples_split: 10, min_samples_leaf: 13, max_depth: 3)
+| 304       | -0.009538 | 3.356     | 13.19     | 10.32     | 68.92     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 192, min_samples_split: 5, min_samples_leaf: 9, max_depth: 8)
+| 305       | -0.01358  | 8.247     | 9.83      | 5.539     | 192.9     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 103, min_samples_split: 9, min_samples_leaf: 12, max_depth: 15)
+| 306       | -0.01358  | 15.31     | 12.8      | 9.382     | 103.1     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 168, min_samples_split: 10, min_samples_leaf: 6, max_depth: 11)
+| 307       | -0.01358  | 11.68     | 6.495     | 10.02     | 168.3     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 120, min_samples_split: 9, min_samples_leaf: 10, max_depth: 4)
+| 308       | -0.01358  | 4.374     | 10.02     | 9.12      | 120.9     |
+70.74738148308843
+kupiec 检验：不拒绝原假设, 违约次数: 9
+Loss: -0.002023121387283236 (n_estimators: 68, min_samples_split: 18, min_samples_leaf: 13, max_depth: 17)
+| 309       | -0.002023 | 17.81     | 13.23     | 18.28     | 68.82     |
+117.85840514975148
+kupiec 检验：不拒绝原假设, 违约次数: 17
+Loss: -0.04826589595375723 (n_estimators: 57, min_samples_split: 7, min_samples_leaf: 1, max_depth: 7)
+| 310       | -0.04827  | 7.167     | 1.369     | 7.673     | 57.2      |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 168, min_samples_split: 19, min_samples_leaf: 4, max_depth: 17)
+| 311       | -0.01936  | 17.56     | 4.729     | 19.96     | 168.8     |
+123.74728310808435
+kupiec 检验：不拒绝原假设, 违约次数: 18
+Loss: -0.054046242774566475 (n_estimators: 50, min_samples_split: 18, min_samples_leaf: 4, max_depth: 10)
+| 312       | -0.05405  | 10.33     | 4.691     | 18.96     | 50.68     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 149, min_samples_split: 6, min_samples_leaf: 6, max_depth: 12)
+| 313       | -0.03092  | 12.6      | 6.51      | 6.291     | 149.3     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 100, min_samples_split: 6, min_samples_leaf: 7, max_depth: 12)
+| 314       | -0.01936  | 12.49     | 7.382     | 6.123     | 100.1     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 97, min_samples_split: 10, min_samples_leaf: 2, max_depth: 12)
+| 315       | -0.01936  | 12.08     | 2.666     | 10.58     | 97.69     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 172, min_samples_split: 8, min_samples_leaf: 2, max_depth: 18)
+| 316       | -0.01358  | 18.65     | 2.774     | 8.158     | 172.7     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 97, min_samples_split: 8, min_samples_leaf: 12, max_depth: 13)
+| 317       | -0.01358  | 13.58     | 12.53     | 8.111     | 97.63     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 80, min_samples_split: 3, min_samples_leaf: 14, max_depth: 17)
+| 318       | -0.03092  | 17.44     | 14.64     | 3.303     | 80.65     |
+106.08064923308571
+kupiec 检验：不拒绝原假设, 违约次数: 15
+Loss: -0.036705202312138724 (n_estimators: 134, min_samples_split: 11, min_samples_leaf: 3, max_depth: 5)
+| 319       | -0.03671  | 5.403     | 3.25      | 11.43     | 134.9     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 85, min_samples_split: 17, min_samples_leaf: 2, max_depth: 15)
+| 320       | -0.02514  | 15.32     | 2.763     | 17.62     | 85.85     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 82, min_samples_split: 3, min_samples_leaf: 8, max_depth: 18)
+| 321       | -0.02514  | 18.26     | 8.46      | 3.231     | 82.16     |
+76.6362594414213
+kupiec 检验：不拒绝原假设, 违约次数: 10
+Loss: -0.007803468208092482 (n_estimators: 109, min_samples_split: 5, min_samples_leaf: 12, max_depth: 17)
+| 322       | -0.007803 | 17.77     | 12.0      | 5.223     | 109.6     |
+82.52513739975419
+kupiec 检验：不拒绝原假设, 违约次数: 11
+Loss: -0.013583815028901727 (n_estimators: 57, min_samples_split: 16, min_samples_leaf: 1, max_depth: 17)
+| 323       | -0.01358  | 17.3      | 1.393     | 16.8      | 57.5      |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 73, min_samples_split: 17, min_samples_leaf: 2, max_depth: 16)
+| 324       | -0.03092  | 16.95     | 2.792     | 17.49     | 73.66     |
+88.41401535808707
+kupiec 检验：不拒绝原假设, 违约次数: 12
+Loss: -0.019364161849710973 (n_estimators: 188, min_samples_split: 3, min_samples_leaf: 8, max_depth: 13)
+| 325       | -0.01936  | 13.74     | 8.677     | 3.062     | 189.0     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 150, min_samples_split: 11, min_samples_leaf: 6, max_depth: 10)
+| 326       | -0.02514  | 10.58     | 6.203     | 11.19     | 150.8     |
+94.30289331641995
+kupiec 检验：不拒绝原假设, 违约次数: 13
+Loss: -0.025144508670520233 (n_estimators: 70, min_samples_split: 13, min_samples_leaf: 1, max_depth: 18)
+| 327       | -0.02514  | 18.22     | 1.052     | 13.68     | 70.06     |
+106.08064923308571
+kupiec 检验：不拒绝原假设, 违约次数: 15
+Loss: -0.036705202312138724 (n_estimators: 78, min_samples_split: 19, min_samples_leaf: 10, max_depth: 14)
+| 328       | -0.03671  | 14.74     | 10.31     | 19.49     | 78.56     |
+100.19177127475282
+kupiec 检验：不拒绝原假设, 违约次数: 14
+Loss: -0.030924855491329478 (n_estimators: 137, min_samples_split: 13, min_samples_leaf: 2, max_depth: 14)
+| 329       | -0.03092  | 14.31     | 2.865     | 13.03     | 137.8     |
+64.85850352475555
+kupiec 检验：不拒绝原假设, 违约次数: 8
+Loss: -0.0037572254335260166 (n_estimators: 83, min_samples_split: 7, min_samples_leaf: 14, max_depth: 8)
+| 330       | -0.003757 | 8.947     | 14.03     | 7.112     | 83.43     |
+=========================================================================
+最优参数： {'target': np.float64(-0.002023121387283236), 'params': {'max_depth': np.float64(4.754842111819914), 'min_samples_leaf': np.float64(7.270509366462672), 'min_samples_split': np.float64(18.35471905567572), 'n_estimators': np.float64(94.04212225605193)}}
+第 1 次预测完成!
+第 2 次预测完成!
+第 3 次预测完成!
+第 4 次预测完成!
+第 5 次预测完成!
+第 6 次预测完成!
+第 7 次预测完成!
+第 8 次预测完成!
+第 9 次预测完成!
+第 10 次预测完成!
+第 11 次预测完成!
+第 12 次预测完成!
+第 13 次预测完成!
+第 14 次预测完成!
+第 15 次预测完成!
+第 16 次预测完成!
+第 17 次预测完成!
+第 18 次预测完成!
+第 19 次预测完成!
+第 20 次预测完成!
+第 21 次预测完成!
+第 22 次预测完成!
+第 23 次预测完成!
+第 24 次预测完成!
+第 25 次预测完成!
+第 26 次预测完成!
+第 27 次预测完成!
+第 28 次预测完成!
+第 29 次预测完成!
+第 30 次预测完成!
+第 31 次预测完成!
+第 32 次预测完成!
+第 33 次预测完成!
+第 34 次预测完成!
+第 35 次预测完成!
+第 36 次预测完成!
+第 37 次预测完成!
+第 38 次预测完成!
+第 39 次预测完成!
+第 40 次预测完成!
+第 41 次预测完成!
+第 42 次预测完成!
+第 43 次预测完成!
+第 44 次预测完成!
+第 45 次预测完成!
+第 46 次预测完成!
+第 47 次预测完成!
+第 48 次预测完成!
+第 49 次预测完成!
+第 50 次预测完成!
+第 51 次预测完成!
+第 52 次预测完成!
+第 53 次预测完成!
+第 54 次预测完成!
+第 55 次预测完成!
+第 56 次预测完成!
+第 57 次预测完成!
+第 58 次预测完成!
+第 59 次预测完成!
+第 60 次预测完成!
+第 61 次预测完成!
+第 62 次预测完成!
+第 63 次预测完成!
+第 64 次预测完成!
+第 65 次预测完成!
+第 66 次预测完成!
+第 67 次预测完成!
+第 68 次预测完成!
+第 69 次预测完成!
+第 70 次预测完成!
+第 71 次预测完成!
+第 72 次预测完成!
+第 73 次预测完成!
+第 74 次预测完成!
+第 75 次预测完成!
+第 76 次预测完成!
+第 77 次预测完成!
+第 78 次预测完成!
+第 79 次预测完成!
+第 80 次预测完成!
+第 81 次预测完成!
+第 82 次预测完成!
+第 83 次预测完成!
+第 84 次预测完成!
+第 85 次预测完成!
+第 86 次预测完成!
+第 87 次预测完成!
+第 88 次预测完成!
+第 89 次预测完成!
+第 90 次预测完成!
+第 91 次预测完成!
+第 92 次预测完成!
+第 93 次预测完成!
+第 94 次预测完成!
+第 95 次预测完成!
+第 96 次预测完成!
+第 97 次预测完成!
+第 98 次预测完成!
+第 99 次预测完成!
+第 100 次预测完成!
+第 101 次预测完成!
+第 102 次预测完成!
+第 103 次预测完成!
+第 104 次预测完成!
+第 105 次预测完成!
+第 106 次预测完成!
+第 107 次预测完成!
+第 108 次预测完成!
+第 109 次预测完成!
+第 110 次预测完成!
+第 111 次预测完成!
+第 112 次预测完成!
+第 113 次预测完成!
+第 114 次预测完成!
+第 115 次预测完成!
+第 116 次预测完成!
+第 117 次预测完成!
+第 118 次预测完成!
+第 119 次预测完成!
+第 120 次预测完成!
+第 121 次预测完成!
+第 122 次预测完成!
+第 123 次预测完成!
+第 124 次预测完成!
+第 125 次预测完成!
+第 126 次预测完成!
+第 127 次预测完成!
+第 128 次预测完成!
+第 129 次预测完成!
+第 130 次预测完成!
+第 131 次预测完成!
+第 132 次预测完成!
+第 133 次预测完成!
+第 134 次预测完成!
+第 135 次预测完成!
+第 136 次预测完成!
+第 137 次预测完成!
+第 138 次预测完成!
+第 139 次预测完成!
+第 140 次预测完成!
+第 141 次预测完成!
+第 142 次预测完成!
+第 143 次预测完成!
+第 144 次预测完成!
+第 145 次预测完成!
+第 146 次预测完成!
+第 147 次预测完成!
+第 148 次预测完成!
+第 149 次预测完成!
+第 150 次预测完成!
+第 151 次预测完成!
+第 152 次预测完成!
+第 153 次预测完成!
+第 154 次预测完成!
+第 155 次预测完成!
+第 156 次预测完成!
+第 157 次预测完成!
+第 158 次预测完成!
+第 159 次预测完成!
+第 160 次预测完成!
+第 161 次预测完成!
+第 162 次预测完成!
+第 163 次预测完成!
+第 164 次预测完成!
+第 165 次预测完成!
+第 166 次预测完成!
+第 167 次预测完成!
+第 168 次预测完成!
+第 169 次预测完成!
+第 170 次预测完成!
+第 171 次预测完成!
+第 172 次预测完成!
+第 173 次预测完成!
+第 174 次预测完成!
+第 175 次预测完成!
+第 176 次预测完成!
+第 177 次预测完成!
+第 178 次预测完成!
+第 179 次预测完成!
+第 180 次预测完成!
+第 181 次预测完成!
+第 182 次预测完成!
+第 183 次预测完成!
+第 184 次预测完成!
+第 185 次预测完成!
+第 186 次预测完成!
+第 187 次预测完成!
+第 188 次预测完成!
+第 189 次预测完成!
+第 190 次预测完成!
+第 191 次预测完成!
+第 192 次预测完成!
+第 193 次预测完成!
+第 194 次预测完成!
+第 195 次预测完成!
+第 196 次预测完成!
+第 197 次预测完成!
+第 198 次预测完成!
+第 199 次预测完成!
+第 200 次预测完成!
+第 201 次预测完成!
+第 202 次预测完成!
+第 203 次预测完成!
+第 204 次预测完成!
+第 205 次预测完成!
+第 206 次预测完成!
+第 207 次预测完成!
+第 208 次预测完成!
+第 209 次预测完成!
+第 210 次预测完成!
+第 211 次预测完成!
+第 212 次预测完成!
+第 213 次预测完成!
+第 214 次预测完成!
+第 215 次预测完成!
+第 216 次预测完成!
+第 217 次预测完成!
+第 218 次预测完成!
+第 219 次预测完成!
+第 220 次预测完成!
+第 221 次预测完成!
+第 222 次预测完成!
+第 223 次预测完成!
+第 224 次预测完成!
+第 225 次预测完成!
+第 226 次预测完成!
+第 227 次预测完成!
+第 228 次预测完成!
+第 229 次预测完成!
+第 230 次预测完成!
+第 231 次预测完成!
+第 232 次预测完成!
+第 233 次预测完成!
+第 234 次预测完成!
+第 235 次预测完成!
+第 236 次预测完成!
+第 237 次预测完成!
+第 238 次预测完成!
+第 239 次预测完成!
+第 240 次预测完成!
+第 241 次预测完成!
+第 242 次预测完成!
+第 243 次预测完成!
+第 244 次预测完成!
+第 245 次预测完成!
+第 246 次预测完成!
+第 247 次预测完成!
+第 248 次预测完成!
+第 249 次预测完成!
+第 250 次预测完成!
+第 251 次预测完成!
+第 252 次预测完成!
+第 253 次预测完成!
+第 254 次预测完成!
+第 255 次预测完成!
+第 256 次预测完成!
+第 257 次预测完成!
+第 258 次预测完成!
+第 259 次预测完成!
+第 260 次预测完成!
+第 261 次预测完成!
+第 262 次预测完成!
+第 263 次预测完成!
+第 264 次预测完成!
+第 265 次预测完成!
+第 266 次预测完成!
+第 267 次预测完成!
+第 268 次预测完成!
+第 269 次预测完成!
+第 270 次预测完成!
+第 271 次预测完成!
+第 272 次预测完成!
+第 273 次预测完成!
+第 274 次预测完成!
+第 275 次预测完成!
+第 276 次预测完成!
+第 277 次预测完成!
+第 278 次预测完成!
+第 279 次预测完成!
+第 280 次预测完成!
+第 281 次预测完成!
+第 282 次预测完成!
+第 283 次预测完成!
+第 284 次预测完成!
+第 285 次预测完成!
+第 286 次预测完成!
+第 287 次预测完成!
+第 288 次预测完成!
+第 289 次预测完成!
+第 290 次预测完成!
+第 291 次预测完成!
+第 292 次预测完成!
+第 293 次预测完成!
+第 294 次预测完成!
+第 295 次预测完成!
+第 296 次预测完成!
+第 297 次预测完成!
+第 298 次预测完成!
+第 299 次预测完成!
+第 300 次预测完成!
+第 301 次预测完成!
+第 302 次预测完成!
+第 303 次预测完成!
+第 304 次预测完成!
+第 305 次预测完成!
+第 306 次预测完成!
+第 307 次预测完成!
+第 308 次预测完成!
+第 309 次预测完成!
+第 310 次预测完成!
+第 311 次预测完成!
+第 312 次预测完成!
+第 313 次预测完成!
+第 314 次预测完成!
+第 315 次预测完成!
+第 316 次预测完成!
+第 317 次预测完成!
+第 318 次预测完成!
+第 319 次预测完成!
+第 320 次预测完成!
+第 321 次预测完成!
+第 322 次预测完成!
+第 323 次预测完成!
+第 324 次预测完成!
+第 325 次预测完成!
+第 326 次预测完成!
+第 327 次预测完成!
+第 328 次预测完成!
+第 329 次预测完成!
+第 330 次预测完成!
+第 331 次预测完成!
+第 332 次预测完成!
+第 333 次预测完成!
+第 334 次预测完成!
+第 335 次预测完成!
+第 336 次预测完成!
+第 337 次预测完成!
+第 338 次预测完成!
+第 339 次预测完成!
+第 340 次预测完成!
+第 341 次预测完成!
+第 342 次预测完成!
+第 343 次预测完成!
+第 344 次预测完成!
+第 345 次预测完成!
+第 346 次预测完成!
+滚动预测训练完成!
+最终损失: 0.010693641618497104
+159.1613968411755
+kupiec 检验：不拒绝原假设, 违约次数: 21
+Kupiec 检验结果: True
