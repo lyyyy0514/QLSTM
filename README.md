@@ -36,9 +36,6 @@ bayes-opt>=1.2.0
 
 1. 克隆或下载本项目：
 2. 安装依赖：
-   ```bash
-pip install -r requirements.txt
-```
 3. 运行训练脚本：
    - 对上证指数：
      ```bash
@@ -86,10 +83,6 @@ python qrf_train.py --market sp500
   }
   ```
 - 可直接加载该文件用于复现最佳实验结果：
-  ```bash
-python example_load_best.py
-```
-
 ---
 
 欢迎根据需要调整参数、批处理方式或数据来源，以完成更深入的对比分析。
